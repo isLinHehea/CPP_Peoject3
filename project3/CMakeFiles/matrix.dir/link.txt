@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/matrix.dir/matrix.c.o CMakeFiles/matrix.dir/matrixDefinition.c.o CMakeFiles/matrix.dir/matrixCalculation.c.o -o matrix 
